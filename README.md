@@ -28,8 +28,8 @@ To recreate this visualization:
 - In the example provided, the middle shape represents the year 1981 and the outer 2016, but feel free to experiment with placement, order and sizing as required.
 
 ## CREDITS & LICENSE
-- Idea by: [INSTITUTION](https://climate.esa.int/)
-- Processing Scripts by: [INSTITUTION](https://climate.esa.int/)
-- Visualization by: [INSTITUTION](https://climate.esa.int/)
+- Idea by: [Imperative Space](https://www.imperative.space)
+- Processing Scripts by: [Imperative Space](https://www.imperative.space)
+- Visualization by: [Imperative Space](https://www.imperative.space)
 
 The code in this repository is published under [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/)
