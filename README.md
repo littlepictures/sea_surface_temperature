@@ -2,7 +2,7 @@
 
 ## Background on this CLIP
 
-This infographic shows 35 years (1981-2016) of fluctuations in annual sea surface temperature across the globe.  The temperature range modelled, covers 0.5 degree centigrade, with blue tones at the lower end and yellow at the upper. A sharp increase in global sea surface temperature is noticeable towards the end of the data set.
+This infographic shows 35 years (1981-2016) of fluctuations in annual sea surface temperature across the globe.  The dataset used reveals a 0.51C increase in temperature over this period, represented by the darkest blue colour tones at the lower end and yellow tone at the upper. A sharp increase in global sea surface temperature is noticeable towards the end of the dataset, hence the yellow 'halo' that can be seen.
 
 
 ## Data Sources
@@ -16,15 +16,15 @@ The CLIP uses the following datasets:
 The data for this infographic came from the yearly_global_mean measurements, which provide 35 years of observations.
 
 To prepare the data, follow these steps:
-- Open .csv file in an appropriate application (e.g. MS Excel) 
-- Set number format of value cells to 2 decimal places, for simplicity.
+- Open .csv file in an appropriate editor
+- Normalise the values to 2 decimal places, for simplicity.
 
 ## Creating Visualizations 
 
 To recreate this visualization:
-- Using appropriate software, create a 51 step colour ramp (e.g. #00adff to #fafa6e), to correspond with the 0.01 degree increments over the 0.51C temperature increase range observed in the dataset
-- Programatically or manually create 35 vector shapes, representing each year of the dataset, with progressively increased height and width (e.g 10px), to form a mosaic
-- Programatically or manually assign to the appropriate colour from your ramp to each progressive shape, according to the temperature value measured for that year
+- Using appropriate software, create a 51 step colour ramp (e.g. #00adff to #fafa6e), corresponding with 0.01 degree increments over the 0.51C temperature increase observed in the dataset
+- Programatically or manually create 35 vector shapes, representing each year of the dataset, with progressively increased height and/or width (in this example, 10px), to form a mosaic
+- Programatically or manually assign to the appropriate colour from the ramp to each progressive shape, according to the temperature value measured for that year
 - In the example provided, the middle shape represents the year 1981 and the outer 2016, but feel free to experiment with placement, order and sizing as required.
 
 ## CREDITS & LICENSE
