@@ -33,3 +33,4 @@ To recreate this visualization:
 - Visualization by: [Imperative Space](https://www.imperative.space)
 
 The code in this repository is published under [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/)
+The content in this repository is published under [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/)
