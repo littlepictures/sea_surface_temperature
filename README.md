@@ -19,7 +19,7 @@ To prepare the data, follow these steps:
 - Open .csv file in an appropriate editor
 - Normalise the values to 2 decimal places, for simplicity.
 
-## Creating Visualizations 
+## Creating Visualisations 
 
 To recreate this visualization:
 - Using appropriate software, create a 51 step colour ramp (e.g. #00adff to #fafa6e), corresponding with 0.01 degree increments over the 0.51C temperature increase observed in the dataset
