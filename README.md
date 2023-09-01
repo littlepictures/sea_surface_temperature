@@ -30,7 +30,7 @@ To recreate this visualization:
 ## CREDITS & LICENSE
 - Idea by: [Imperative Space](https://www.imperative.space)
 - Processing Scripts by: [Imperative Space](https://www.imperative.space)
-- Visualization by: [Imperative Space](https://www.imperative.space)
+- Visualisation by: [Imperative Space](https://www.imperative.space)
 
 The code in this repository is published under [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/)
 The content in this repository is published under [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/)
